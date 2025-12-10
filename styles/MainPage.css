@@ -440,7 +440,7 @@ h2 {
 }
 
 
-@media (max-width: 425px) {
+@media (max-width: 600px) {
   h2 {
     font-size: 1.5rem;
   }
@@ -548,7 +548,7 @@ h2 {
   }
 }
 
-  @media (max-width: 425px) {
+  @media (max-width: 600px) {
   .categories h2 {
     padding-bottom: 15px;
   }
@@ -651,7 +651,7 @@ h2 {
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 600px) {
     .subscription-section {
         height: auto;
         flex-direction: column;
@@ -708,5 +708,6 @@ h2 {
 
     }
 }
+
 
 
