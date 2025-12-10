@@ -113,7 +113,7 @@ document.addEventListener("click", function (e) {
     const id = category.dataset.categoryId;
     console.log(id);
 
-    window.location.href = `categoryRecipe.html?id=${id}`;
+    window.location.href = `CategoryRecipe.html?id=${id}`;
 });
 
 document.addEventListener("click", function (e) {
@@ -138,4 +138,5 @@ document.addEventListener("click", function (e) {
 
     window.location.href = `SingleArticle.html?id=${id}`;
 });
+
 
