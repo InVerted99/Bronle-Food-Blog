@@ -136,7 +136,7 @@
 
     .email-updates {
         height: auto;
-        width: 70%;
+        width: 90%;
     }
 
     .email-updates h2 {
@@ -171,6 +171,10 @@
 
     #emailForm {
         align-items: center;
-        margin-bottom: 20px;
     }
+
+    #error-message {
+        margin: 0 5px ;
+    }
+
 }
