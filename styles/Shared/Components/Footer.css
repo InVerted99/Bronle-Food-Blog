@@ -106,11 +106,12 @@ footer > p {
   }
 
   .footer-links {
-    gap: 60px;
+    gap: 100px;
   }
 
   .copyright {
     padding: 0;
     margin-top: 20px;
   }
+
 }
