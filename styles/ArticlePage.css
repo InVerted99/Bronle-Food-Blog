@@ -250,7 +250,7 @@ main{
 }
 
 
-@media (max-width: 375px){
+@media (max-width: 600px){
   .container{
     margin: auto;
     width: 600px;
@@ -336,3 +336,4 @@ main{
   }
 
 }
+
